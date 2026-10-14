@@ -1,0 +1,1102 @@
+[
+  {
+    "q": "Put these events in order, earliest to latest: 1) Gunpowder Plot • 2) Darwin publishes On the Origin of Species • 3) Beijing Summer Olympics • 4) Traditional founding of Rome",
+    "a": [
+      "4 → 2 → 3 → 1",
+      "1 → 2 → 4 → 3",
+      "3 → 4 → 2 → 1",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Marathon • 2) Mount Vesuvius destroys Pompeii • 3) Battle of Britain • 4) India gains independence",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "1 → 2 → 3 → 4",
+      "3 → 4 → 1 → 2",
+      "3 → 2 → 4 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Seven Years’ War begins • 2) Battle of Bosworth Field • 3) WHO declares COVID-19 a pandemic • 4) Mayflower reaches North America",
+    "a": [
+      "2 → 3 → 1 → 4",
+      "3 → 4 → 1 → 2",
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) BBC begins regular television broadcasts • 2) First recorded ancient Olympic Games • 3) Traditional founding of Rome • 4) Mount Vesuvius destroys Pompeii",
+    "a": [
+      "4 → 2 → 3 → 1",
+      "1 → 3 → 2 → 4",
+      "1 → 2 → 4 → 3",
+      "2 → 3 → 4 → 1"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Act of Supremacy in England • 2) Great Plague of London • 3) Mount Vesuvius destroys Pompeii • 4) Battle of Agincourt",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "4 → 1 → 3 → 2",
+      "3 → 1 → 4 → 2",
+      "4 → 3 → 1 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Decimalisation of British currency • 2) Queen Elizabeth II dies • 3) Seven Years’ War begins • 4) First World War ends",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "3 → 2 → 1 → 4",
+      "4 → 2 → 3 → 1",
+      "3 → 1 → 2 → 4"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) YouTube founded • 2) Berlin Wall built • 3) First iPhone released • 4) Acts of Union create Great Britain",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "4 → 2 → 1 → 3",
+      "4 → 1 → 3 → 2",
+      "3 → 1 → 4 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Act of Supremacy in England • 2) Second World War begins • 3) Gunpowder Plot • 4) Coronation of Elizabeth II",
+    "a": [
+      "1 → 3 → 2 → 4",
+      "4 → 2 → 3 → 1",
+      "3 → 4 → 2 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Soviet Union dissolved • 2) Fall of the Western Roman Empire • 3) Battle of Trafalgar • 4) Martin Luther King Jr. delivers I Have a Dream speech",
+    "a": [
+      "3 → 2 → 1 → 4",
+      "2 → 3 → 4 → 1",
+      "1 → 3 → 4 → 2",
+      "3 → 4 → 1 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) First World War begins • 2) Fall of the Western Roman Empire • 3) Charlemagne crowned emperor • 4) Suez Canal opens",
+    "a": [
+      "2 → 1 → 3 → 4",
+      "2 → 3 → 4 → 1",
+      "4 → 3 → 1 → 2",
+      "3 → 4 → 2 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Live Aid concerts • 2) American Declaration of Independence • 3) Great Plague of London • 4) Domesday Book completed",
+    "a": [
+      "3 → 1 → 4 → 2",
+      "1 → 2 → 3 → 4",
+      "1 → 3 → 2 → 4",
+      "4 → 3 → 2 → 1"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Edington • 2) Gunpowder Plot • 3) Great Exhibition in London • 4) Second World War ends",
+    "a": [
+      "2 → 4 → 1 → 3",
+      "1 → 4 → 2 → 3",
+      "4 → 2 → 1 → 3",
+      "1 → 2 → 3 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) D-Day landings • 2) First World War begins • 3) Fall of the Western Roman Empire • 4) French Revolution begins",
+    "a": [
+      "2 → 4 → 1 → 3",
+      "3 → 4 → 2 → 1",
+      "1 → 3 → 4 → 2",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) First modern Olympic Games • 2) Queen Victoria becomes monarch • 3) Facebook launches • 4) Glorious Revolution",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "1 → 3 → 2 → 4"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Gunpowder Plot • 2) Darwin publishes On the Origin of Species • 3) Wall Street Crash • 4) First Moon landing",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "1 → 2 → 4 → 3",
+      "4 → 1 → 3 → 2",
+      "1 → 2 → 3 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Martin Luther publishes his Ninety-five Theses • 2) Penicillin discovered by Alexander Fleming • 3) Battle of Bosworth Field • 4) Battle of Agincourt",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "4 → 3 → 2 → 1",
+      "3 → 1 → 2 → 4",
+      "4 → 3 → 1 → 2"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) WHO declares COVID-19 a pandemic • 2) Black Death reaches England • 3) First recorded ancient Olympic Games • 4) Charlemagne crowned emperor",
+    "a": [
+      "3 → 4 → 2 → 1",
+      "3 → 1 → 2 → 4",
+      "2 → 1 → 4 → 3",
+      "1 → 4 → 3 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Defeat of the Spanish Armada • 2) Falklands War • 3) Wright brothers’ first powered flight • 4) Chernobyl disaster",
+    "a": [
+      "1 → 3 → 2 → 4",
+      "3 → 4 → 2 → 1",
+      "2 → 1 → 3 → 4",
+      "4 → 3 → 2 → 1"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) French Revolution begins • 2) First iPhone released • 3) King James Bible first published • 4) Fall of Constantinople",
+    "a": [
+      "3 → 2 → 4 → 1",
+      "4 → 3 → 1 → 2",
+      "4 → 3 → 2 → 1",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Martin Luther publishes his Ninety-five Theses • 2) Great Plague of London • 3) WHO declares COVID-19 a pandemic • 4) London Summer Olympics",
+    "a": [
+      "1 → 2 → 4 → 3",
+      "3 → 4 → 1 → 2",
+      "2 → 3 → 4 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Coronation of Elizabeth II • 2) First World War ends • 3) Russian Revolution • 4) Beginning of the Islamic calendar",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "1 → 2 → 4 → 3",
+      "4 → 1 → 2 → 3",
+      "1 → 4 → 3 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Millennium Dome opens to the public • 2) Gunpowder Plot • 3) Julius Caesar assassinated • 4) Channel Tunnel opens",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "3 → 4 → 2 → 1",
+      "3 → 2 → 4 → 1",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Channel Tunnel opens • 2) Gunpowder Plot • 3) King James Bible first published • 4) Great Plague of London",
+    "a": [
+      "1 → 2 → 3 → 4",
+      "2 → 3 → 1 → 4",
+      "2 → 3 → 4 → 1",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Falklands War • 2) Domesday Book completed • 3) WHO declares COVID-19 a pandemic • 4) Beijing Summer Olympics",
+    "a": [
+      "3 → 4 → 2 → 1",
+      "3 → 2 → 4 → 1",
+      "2 → 3 → 1 → 4",
+      "2 → 1 → 4 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Facebook launches • 2) Second World War ends • 3) UK votes in EU referendum • 4) English Civil War begins",
+    "a": [
+      "2 → 3 → 4 → 1",
+      "3 → 1 → 2 → 4",
+      "4 → 2 → 1 → 3",
+      "3 → 2 → 1 → 4"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Charlemagne crowned emperor • 2) England wins the men’s football World Cup • 3) Decimalisation of British currency • 4) First iPhone released",
+    "a": [
+      "2 → 1 → 3 → 4",
+      "3 → 1 → 4 → 2",
+      "1 → 2 → 3 → 4",
+      "2 → 3 → 4 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Domesday Book completed • 2) Wall Street Crash • 3) Nelson Mandela released from prison • 4) Rosa Parks refuses to give up her bus seat",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "3 → 1 → 2 → 4",
+      "1 → 2 → 4 → 3",
+      "3 → 4 → 1 → 2"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) English Civil War begins • 2) American Declaration of Independence • 3) King James Bible first published • 4) First Star Wars film released",
+    "a": [
+      "2 → 3 → 1 → 4",
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "3 → 1 → 2 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Fall of the Western Roman Empire • 2) Act of Supremacy in England • 3) First World War ends • 4) Battle of Britain",
+    "a": [
+      "1 → 2 → 3 → 4",
+      "3 → 2 → 1 → 4",
+      "1 → 4 → 2 → 3",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Viking raid on Lindisfarne • 2) First Space Shuttle launch • 3) Roman withdrawal from Britain • 4) Battle of Bosworth Field",
+    "a": [
+      "1 → 2 → 4 → 3",
+      "3 → 1 → 4 → 2",
+      "4 → 2 → 1 → 3",
+      "3 → 1 → 2 → 4"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Restoration of Charles II • 2) Suez Canal opens • 3) First World War ends • 4) Battle of Marathon",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "1 → 2 → 3 → 4",
+      "2 → 4 → 3 → 1",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Fire of London • 2) American Civil War begins • 3) Queen Elizabeth II dies • 4) First World War begins",
+    "a": [
+      "1 → 3 → 2 → 4",
+      "2 → 3 → 1 → 4",
+      "1 → 4 → 2 → 3",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Wright brothers’ first powered flight • 2) King James Bible first published • 3) Charlemagne crowned emperor • 4) Wikipedia launches",
+    "a": [
+      "2 → 1 → 4 → 3",
+      "4 → 1 → 2 → 3",
+      "3 → 2 → 1 → 4",
+      "1 → 3 → 4 → 2"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Queen Victoria becomes monarch • 2) D-Day landings • 3) Live Aid concerts • 4) Battle of Hastings",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "1 → 2 → 4 → 3",
+      "2 → 4 → 1 → 3",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Facebook launches • 2) First modern Olympic Games • 3) Battle of Trafalgar • 4) Channel Tunnel opens",
+    "a": [
+      "2 → 1 → 3 → 4",
+      "3 → 2 → 4 → 1",
+      "1 → 2 → 4 → 3",
+      "1 → 4 → 3 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Martin Luther publishes his Ninety-five Theses • 2) Rosa Parks refuses to give up her bus seat • 3) Acts of Union create Great Britain • 4) Second World War begins",
+    "a": [
+      "2 → 1 → 4 → 3",
+      "1 → 2 → 3 → 4",
+      "1 → 3 → 4 → 2",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Plague of London • 2) English Civil War begins • 3) Decimalisation of British currency • 4) Eiffel Tower opens",
+    "a": [
+      "1 → 3 → 4 → 2",
+      "2 → 3 → 1 → 4",
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Britain • 2) NHS begins in the UK • 3) Battle of Edington • 4) First Star Wars film released",
+    "a": [
+      "4 → 3 → 1 → 2",
+      "2 → 4 → 3 → 1",
+      "2 → 3 → 4 → 1",
+      "3 → 1 → 2 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Act of Supremacy in England • 2) Great Pyramid of Giza completed • 3) Eiffel Tower opens • 4) UK votes in EU referendum",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "4 → 1 → 3 → 2",
+      "2 → 1 → 4 → 3",
+      "2 → 1 → 3 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) England wins the men’s football World Cup • 2) Fall of the Western Roman Empire • 3) Hong Kong handover • 4) Stockton and Darlington Railway opens",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "2 → 4 → 1 → 3",
+      "1 → 2 → 4 → 3",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Chernobyl disaster • 2) D-Day landings • 3) Battle of Hastings • 4) King James Bible first published",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "2 → 4 → 1 → 3",
+      "3 → 4 → 2 → 1",
+      "3 → 2 → 4 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Berlin Wall built • 2) Battle of Marathon • 3) Beginning of the Islamic calendar • 4) YouTube founded",
+    "a": [
+      "3 → 2 → 4 → 1",
+      "2 → 3 → 1 → 4",
+      "1 → 4 → 2 → 3",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Martin Luther King Jr. delivers I Have a Dream speech • 2) Battle of Trafalgar • 3) Suez Canal opens • 4) Domesday Book completed",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "4 → 2 → 3 → 1",
+      "2 → 1 → 3 → 4",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Falklands War • 2) Stockton and Darlington Railway opens • 3) NHS begins in the UK • 4) English Civil War begins",
+    "a": [
+      "2 → 3 → 4 → 1",
+      "3 → 1 → 2 → 4",
+      "3 → 2 → 4 → 1",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Plague of London • 2) Black Death reaches England • 3) NHS begins in the UK • 4) Fall of the Western Roman Empire",
+    "a": [
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "4 → 1 → 2 → 3",
+      "4 → 3 → 1 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Viking raid on Lindisfarne • 2) Channel Tunnel opens • 3) Titanic sinks • 4) Falklands War",
+    "a": [
+      "1 → 3 → 4 → 2",
+      "1 → 2 → 3 → 4",
+      "2 → 1 → 4 → 3",
+      "4 → 1 → 3 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Bosworth Field • 2) Berlin Wall falls • 3) Darwin publishes On the Origin of Species • 4) Beginning of the Islamic calendar",
+    "a": [
+      "1 → 4 → 2 → 3",
+      "2 → 1 → 3 → 4",
+      "1 → 3 → 2 → 4",
+      "4 → 1 → 3 → 2"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Falklands War • 2) First modern Olympic Games • 3) Battle of Trafalgar • 4) Wikipedia launches",
+    "a": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 3 → 1",
+      "3 → 2 → 1 → 4",
+      "1 → 3 → 2 → 4"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Suez Canal opens • 2) Decimalisation of British currency • 3) Hong Kong handover • 4) Nelson Mandela released from prison",
+    "a": [
+      "4 → 1 → 3 → 2",
+      "1 → 2 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "3 → 4 → 1 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) First Moon landing • 2) Beijing Summer Olympics • 3) Battle of Marathon • 4) Berlin Wall falls",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "3 → 1 → 4 → 2",
+      "3 → 4 → 2 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Eiffel Tower opens • 2) D-Day landings • 3) Glorious Revolution • 4) Fall of the Western Roman Empire",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "4 → 3 → 1 → 2",
+      "2 → 1 → 3 → 4",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Beijing Summer Olympics • 2) Battle of Trafalgar • 3) Domesday Book completed • 4) First modern Olympic Games",
+    "a": [
+      "3 → 2 → 1 → 4",
+      "3 → 2 → 4 → 1",
+      "4 → 3 → 2 → 1",
+      "3 → 1 → 4 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Restoration of Charles II • 2) First World War begins • 3) Edict of Milan • 4) India gains independence",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "2 → 1 → 4 → 3",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 4 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Edict of Milan • 2) Wright brothers’ first powered flight • 3) First iPhone released • 4) Penicillin discovered by Alexander Fleming",
+    "a": [
+      "1 → 2 → 4 → 3",
+      "2 → 3 → 1 → 4",
+      "4 → 2 → 1 → 3",
+      "3 → 2 → 4 → 1"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Edict of Milan • 2) Roman withdrawal from Britain • 3) Viking raid on Lindisfarne • 4) Queen Victoria becomes monarch",
+    "a": [
+      "1 → 3 → 2 → 4",
+      "1 → 2 → 3 → 4",
+      "4 → 2 → 3 → 1",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Julius Caesar assassinated • 2) Gunpowder Plot • 3) First recorded ancient Olympic Games • 4) Live Aid concerts",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "4 → 1 → 2 → 3",
+      "3 → 2 → 4 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Wall Street Crash • 2) Act of Supremacy in England • 3) Viking raid on Lindisfarne • 4) Gunpowder Plot",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "3 → 2 → 4 → 1",
+      "1 → 4 → 3 → 2",
+      "4 → 3 → 2 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Wright brothers’ first powered flight • 2) Facebook launches • 3) Stockton and Darlington Railway opens • 4) Gunpowder Plot",
+    "a": [
+      "1 → 3 → 4 → 2",
+      "3 → 4 → 1 → 2",
+      "4 → 3 → 1 → 2",
+      "2 → 3 → 4 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Sputnik 1 launched • 2) Second World War begins • 3) Magna Carta sealed • 4) Viking raid on Lindisfarne",
+    "a": [
+      "1 → 2 → 3 → 4",
+      "1 → 3 → 2 → 4",
+      "4 → 3 → 2 → 1",
+      "3 → 1 → 4 → 2"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Exhibition in London • 2) Acts of Union create Great Britain • 3) King James Bible first published • 4) Battle of Bosworth Field",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "2 → 3 → 4 → 1",
+      "4 → 3 → 2 → 1",
+      "1 → 4 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Trafalgar • 2) Hong Kong handover • 3) Beginning of the Islamic calendar • 4) Great Fire of London",
+    "a": [
+      "2 → 1 → 3 → 4",
+      "1 → 4 → 2 → 3",
+      "3 → 4 → 1 → 2",
+      "1 → 3 → 4 → 2"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Bosworth Field • 2) Falklands War • 3) Rosa Parks refuses to give up her bus seat • 4) King James Bible first published",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "1 → 2 → 4 → 3",
+      "4 → 1 → 3 → 2",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Channel Tunnel opens • 2) Bell patents the telephone • 3) England wins the men’s football World Cup • 4) BBC begins regular television broadcasts",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "3 → 4 → 2 → 1",
+      "2 → 4 → 3 → 1",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Coronation of Elizabeth II • 2) First Star Wars film released • 3) Roman withdrawal from Britain • 4) Sputnik 1 launched",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "3 → 1 → 4 → 2",
+      "4 → 1 → 2 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) King James Bible first published • 2) BBC begins regular television broadcasts • 3) Battle of Trafalgar • 4) Sputnik 1 launched",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "1 → 4 → 3 → 2",
+      "3 → 4 → 2 → 1",
+      "1 → 3 → 2 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Julius Caesar assassinated • 2) First World War begins • 3) Eiffel Tower opens • 4) Battle of Hastings",
+    "a": [
+      "2 → 4 → 1 → 3",
+      "4 → 1 → 2 → 3",
+      "1 → 2 → 4 → 3",
+      "1 → 4 → 3 → 2"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Roman invasion of Britain • 2) Battle of Edington • 3) Great Pyramid of Giza completed • 4) Battle of Marathon",
+    "a": [
+      "1 → 4 → 2 → 3",
+      "2 → 4 → 1 → 3",
+      "3 → 4 → 1 → 2",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Queen Victoria becomes monarch • 2) Columbus reaches the Americas • 3) WHO declares COVID-19 a pandemic • 4) First recorded ancient Olympic Games",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "1 → 4 → 2 → 3",
+      "3 → 2 → 1 → 4",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Second World War begins • 2) Fall of Constantinople • 3) American Civil War begins • 4) Nelson Mandela released from prison",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "2 → 3 → 1 → 4",
+      "1 → 4 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) WHO declares COVID-19 a pandemic • 2) Battle of Trafalgar • 3) First modern Olympic Games • 4) English Civil War begins",
+    "a": [
+      "4 → 1 → 3 → 2",
+      "1 → 3 → 4 → 2",
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Bosworth Field • 2) Beginning of the Islamic calendar • 3) Queen Elizabeth II dies • 4) YouTube founded",
+    "a": [
+      "4 → 1 → 3 → 2",
+      "3 → 4 → 2 → 1",
+      "2 → 1 → 4 → 3",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Exhibition in London • 2) Mount Vesuvius destroys Pompeii • 3) Penicillin discovered by Alexander Fleming • 4) Restoration of Charles II",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "2 → 4 → 3 → 1",
+      "3 → 2 → 4 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Charlemagne crowned emperor • 2) Seven Years’ War begins • 3) Second World War begins • 4) England wins the men’s football World Cup",
+    "a": [
+      "4 → 1 → 3 → 2",
+      "1 → 3 → 2 → 4",
+      "2 → 1 → 3 → 4",
+      "1 → 2 → 3 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Julius Caesar assassinated • 2) Martin Luther King Jr. delivers I Have a Dream speech • 3) Falklands War • 4) Berlin Wall falls",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "1 → 2 → 3 → 4",
+      "3 → 4 → 1 → 2",
+      "2 → 3 → 1 → 4"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Martin Luther publishes his Ninety-five Theses • 2) American Declaration of Independence • 3) Battle of Waterloo • 4) Fall of the Western Roman Empire",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "4 → 3 → 2 → 1",
+      "1 → 3 → 2 → 4",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Edington • 2) Berlin Wall built • 3) D-Day landings • 4) Wright brothers’ first powered flight",
+    "a": [
+      "1 → 2 → 3 → 4",
+      "1 → 4 → 3 → 2",
+      "4 → 1 → 3 → 2",
+      "2 → 1 → 3 → 4"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Gunpowder Plot • 2) Eiffel Tower opens • 3) YouTube founded • 4) Coronation of Elizabeth II",
+    "a": [
+      "1 → 3 → 2 → 4",
+      "3 → 2 → 4 → 1",
+      "2 → 1 → 3 → 4",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Hastings • 2) Darwin publishes On the Origin of Species • 3) Falklands War • 4) Eiffel Tower opens",
+    "a": [
+      "4 → 3 → 1 → 2",
+      "2 → 1 → 3 → 4",
+      "2 → 4 → 3 → 1",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Channel Tunnel opens • 2) Domesday Book completed • 3) Soviet Union dissolved • 4) Nelson Mandela released from prison",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "3 → 4 → 2 → 1",
+      "3 → 4 → 1 → 2",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Beginning of the Islamic calendar • 2) Great Fire of London • 3) Great Pyramid of Giza completed • 4) English Civil War begins",
+    "a": [
+      "3 → 1 → 4 → 2",
+      "2 → 3 → 4 → 1",
+      "4 → 3 → 1 → 2",
+      "4 → 1 → 3 → 2"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Live Aid concerts • 2) Falklands War • 3) Magna Carta sealed • 4) Penicillin discovered by Alexander Fleming",
+    "a": [
+      "3 → 2 → 4 → 1",
+      "1 → 4 → 2 → 3",
+      "3 → 4 → 2 → 1",
+      "2 → 1 → 4 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Great Plague of London • 2) Magna Carta sealed • 3) First iPhone released • 4) Viking raid on Lindisfarne",
+    "a": [
+      "2 → 1 → 3 → 4",
+      "4 → 2 → 1 → 3",
+      "3 → 2 → 1 → 4",
+      "2 → 4 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) French Revolution begins • 2) Battle of Waterloo • 3) Act of Supremacy in England • 4) Coronation of Elizabeth II",
+    "a": [
+      "3 → 1 → 2 → 4",
+      "1 → 4 → 3 → 2",
+      "3 → 2 → 1 → 4",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Live Aid concerts • 2) Columbus reaches the Americas • 3) Battle of Hastings • 4) Fall of Constantinople",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "4 → 1 → 3 → 2",
+      "3 → 4 → 2 → 1",
+      "4 → 3 → 2 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Russian Revolution • 2) Defeat of the Spanish Armada • 3) Bell patents the telephone • 4) UK joins the European Economic Community",
+    "a": [
+      "4 → 2 → 1 → 3",
+      "3 → 4 → 1 → 2",
+      "2 → 1 → 3 → 4",
+      "2 → 3 → 1 → 4"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Britain • 2) First Star Wars film released • 3) American Civil War begins • 4) Beijing Summer Olympics",
+    "a": [
+      "4 → 1 → 2 → 3",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 2 → 4",
+      "3 → 2 → 4 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Traditional founding of Rome • 2) First Moon landing • 3) Chernobyl disaster • 4) WHO declares COVID-19 a pandemic",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "3 → 2 → 1 → 4",
+      "1 → 2 → 3 → 4",
+      "3 → 4 → 2 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Second World War begins • 2) Titanic sinks • 3) Eiffel Tower opens • 4) Traditional founding of Rome",
+    "a": [
+      "4 → 3 → 2 → 1",
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "1 → 4 → 2 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Chernobyl disaster • 2) Seven Years’ War begins • 3) American Civil War begins • 4) Restoration of Charles II",
+    "a": [
+      "4 → 2 → 3 → 1",
+      "1 → 4 → 3 → 2",
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 1 → 3"
+    ],
+    "correct": 0,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Battle of Marathon • 2) England wins the men’s football World Cup • 3) First Space Shuttle launch • 4) Mount Vesuvius destroys Pompeii",
+    "a": [
+      "4 → 1 → 3 → 2",
+      "4 → 1 → 2 → 3",
+      "4 → 3 → 2 → 1",
+      "1 → 4 → 2 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Traditional founding of Rome • 2) Martin Luther King Jr. delivers I Have a Dream speech • 3) India gains independence • 4) Roman withdrawal from Britain",
+    "a": [
+      "4 → 3 → 1 → 2",
+      "3 → 1 → 4 → 2",
+      "1 → 4 → 3 → 2",
+      "3 → 2 → 4 → 1"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) First recorded ancient Olympic Games • 2) Channel Tunnel opens • 3) Magna Carta sealed • 4) King James Bible first published",
+    "a": [
+      "3 → 2 → 4 → 1",
+      "1 → 3 → 4 → 2",
+      "4 → 2 → 1 → 3",
+      "4 → 3 → 1 → 2"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Mayflower reaches North America • 2) Second World War begins • 3) Berlin Wall built • 4) Battle of Edington",
+    "a": [
+      "3 → 4 → 1 → 2",
+      "2 → 4 → 3 → 1",
+      "1 → 4 → 2 → 3",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) WHO declares COVID-19 a pandemic • 2) YouTube founded • 3) Chernobyl disaster • 4) Battle of Britain",
+    "a": [
+      "4 → 2 → 3 → 1",
+      "3 → 4 → 2 → 1",
+      "4 → 3 → 2 → 1",
+      "1 → 2 → 3 → 4"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Wikipedia launches • 2) Live Aid concerts • 3) Fall of Constantinople • 4) London Summer Olympics",
+    "a": [
+      "3 → 2 → 4 → 1",
+      "1 → 3 → 4 → 2",
+      "3 → 2 → 1 → 4",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Eiffel Tower opens • 2) First World War begins • 3) Beijing Summer Olympics • 4) Sputnik 1 launched",
+    "a": [
+      "3 → 2 → 1 → 4",
+      "3 → 4 → 2 → 1",
+      "4 → 1 → 2 → 3",
+      "1 → 2 → 4 → 3"
+    ],
+    "correct": 3,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Fall of the Western Roman Empire • 2) Charlemagne crowned emperor • 3) Great Exhibition in London • 4) Roman invasion of Britain",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "4 → 1 → 2 → 3",
+      "3 → 1 → 4 → 2",
+      "4 → 2 → 3 → 1"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) London Summer Olympics • 2) Berlin Wall falls • 3) Roman withdrawal from Britain • 4) Battle of Britain",
+    "a": [
+      "2 → 3 → 1 → 4",
+      "4 → 1 → 3 → 2",
+      "3 → 4 → 2 → 1",
+      "4 → 1 → 2 → 3"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) First recorded ancient Olympic Games • 2) Beginning of the Islamic calendar • 3) Titanic sinks • 4) Viking raid on Lindisfarne",
+    "a": [
+      "1 → 4 → 3 → 2",
+      "1 → 2 → 4 → 3",
+      "1 → 4 → 2 → 3",
+      "4 → 2 → 1 → 3"
+    ],
+    "correct": 1,
+    "category": "History in Order"
+  },
+  {
+    "q": "Put these events in order, earliest to latest: 1) Live Aid concerts • 2) Battle of Marathon • 3) First World War ends • 4) Second World War ends",
+    "a": [
+      "3 → 4 → 2 → 1",
+      "4 → 3 → 1 → 2",
+      "2 → 3 → 4 → 1",
+      "3 → 4 → 1 → 2"
+    ],
+    "correct": 2,
+    "category": "History in Order"
+  }
+]
